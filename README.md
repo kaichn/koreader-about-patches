@@ -1,4 +1,4 @@
-# ✓ About: Active Patches
+# About: Active Patches
 
 **A [KOReader](https://github.com/koreader/koreader) user patch that lists your active user patches in Help → About.**
 
